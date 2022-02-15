@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-780-semiconductor-manufacturing-spring-2003/851eeb6899aef43f0759af5ca613363c_ps3sol.pdf
+file: /media/courses/6-780-semiconductor-manufacturing-spring-2003/851eeb6899aef43f0759af5ca613363c_ps3sol.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: ps3sol.pdf
 uid: 851eeb68-99ae-f43f-0759-af5ca613363c
