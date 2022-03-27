@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 8cdcdf0a-e7c9-b154-e76a-313adc631fbc
 resourcetype: Document
 title: ln1statsa.pdf
 uid: eca541d5-b18f-7161-dafe-0b4c66b6b35b

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 450e56ad-9640-db34-f8aa-b61ce3502b7d
 resourcetype: Document
 title: chen_rep.pdf
 uid: cd50f04b-4f88-0d3b-04d1-f4d9bab59622

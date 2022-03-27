@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 8cdcdf0a-e7c9-b154-e76a-313adc631fbc
 resourcetype: Document
 title: ln21prodplan.pdf
 uid: 1de12ab7-367d-4eee-2e58-7996a6131ff2

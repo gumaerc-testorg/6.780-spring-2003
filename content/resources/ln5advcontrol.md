@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 8cdcdf0a-e7c9-b154-e76a-313adc631fbc
 resourcetype: Document
 title: ln5advcontrol.pdf
 uid: 310e2dd0-96a8-2137-361d-4bbfb3bd1c59

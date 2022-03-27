@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 450e56ad-9640-db34-f8aa-b61ce3502b7d
 resourcetype: Document
 title: smith_sarg_rep.pdf
 uid: 3ac459bb-4c73-5a3a-e426-81e116787f46

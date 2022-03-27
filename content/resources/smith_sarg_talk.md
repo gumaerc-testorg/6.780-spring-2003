@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 450e56ad-9640-db34-f8aa-b61ce3502b7d
 resourcetype: Document
 title: smith_sarg_talk.pdf
 uid: 2c01cf2f-6bfd-32ff-de32-60afbe14fa99

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 8cdcdf0a-e7c9-b154-e76a-313adc631fbc
 resourcetype: Document
 title: ln15sensors.pdf
 uid: 09eaa442-1a0d-77da-77bc-ed2bd682f498

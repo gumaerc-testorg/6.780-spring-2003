@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 450e56ad-9640-db34-f8aa-b61ce3502b7d
 resourcetype: Document
 title: welton_talk.pdf
 uid: 5cc5843a-698a-8d4f-f6ba-73e9f2db2ce4

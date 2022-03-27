@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 450e56ad-9640-db34-f8aa-b61ce3502b7d
 resourcetype: Document
 title: lyons_noh_rep.pdf
 uid: 01962e9a-0397-bce8-5da7-9472401e8c0e

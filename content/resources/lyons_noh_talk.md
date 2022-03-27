@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 450e56ad-9640-db34-f8aa-b61ce3502b7d
 resourcetype: Document
 title: lyons_noh_talk.pdf
 uid: ee3c4a2b-24ad-1ca5-36b6-f04697b4fd7a

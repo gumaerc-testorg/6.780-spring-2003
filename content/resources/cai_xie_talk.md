@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 450e56ad-9640-db34-f8aa-b61ce3502b7d
 resourcetype: Document
 title: cai_xie_talk.pdf
 uid: cd2730f5-1a14-2ecf-4f25-eeadb3b2e27e

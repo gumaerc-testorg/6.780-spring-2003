@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 450e56ad-9640-db34-f8aa-b61ce3502b7d
 resourcetype: Document
 title: somani_teo_talk.pdf
 uid: 3c7a2fc7-71a0-a3eb-a7f9-1325c9e3a67c
