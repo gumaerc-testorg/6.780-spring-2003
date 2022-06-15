@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/6-780-semiconductor-manufacturing-spring-2003/cd50f04b4f880d3b04d1f4d9bab59622_chen_rep.pdf
+file: /courses/6-780-semiconductor-manufacturing-spring-2003/cd50f04b4f880d3b04d1f4d9bab59622_chen_rep.pdf
 file_type: application/pdf
 learning_resource_types:
 - Projects

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/6-780-semiconductor-manufacturing-spring-2003/cd2730f51a142ecf4f25eeadb3b2e27e_cai_xie_talk.pdf
+file: /courses/6-780-semiconductor-manufacturing-spring-2003/cd2730f51a142ecf4f25eeadb3b2e27e_cai_xie_talk.pdf
 file_type: application/pdf
 learning_resource_types:
 - Projects
