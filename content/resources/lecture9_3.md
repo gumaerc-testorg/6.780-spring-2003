@@ -5,6 +5,7 @@ file: /courses/6-780-semiconductor-manufacturing-spring-2003/5a0144749f4cd652344
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture9_3.pdf
 uid: 5a014474-9f4c-d652-3449-bf32f3136945
 ---
 Statistics Review: Estimation
-

@@ -5,6 +5,7 @@ file: /courses/6-780-semiconductor-manufacturing-spring-2003/ee3c4a2b24ad1ca536b
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection

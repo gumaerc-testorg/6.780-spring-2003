@@ -5,6 +5,7 @@ file: /courses/6-780-semiconductor-manufacturing-spring-2003/7bcc4589bc666d14999
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ln17runbyrun.pdf
 uid: 7bcc4589-bc66-6d14-9997-c43444993331
 ---
 Run by Run Control
-

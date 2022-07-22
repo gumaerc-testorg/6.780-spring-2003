@@ -5,6 +5,7 @@ file: /courses/6-780-semiconductor-manufacturing-spring-2003/51a30d00677b639d9d3
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: regression.pdf
 uid: 51a30d00-677b-639d-9d32-f48561d78128
 ---
 RSM and Regression: Regression
-

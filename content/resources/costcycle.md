@@ -5,6 +5,7 @@ file: /courses/6-780-semiconductor-manufacturing-spring-2003/7d0ee4fb16dd2133829
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: costcycle.pdf
 uid: 7d0ee4fb-16dd-2133-8298-0321ded9fdfc
 ---
 Factory Design and Efficiency
-

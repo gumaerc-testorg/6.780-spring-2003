@@ -5,6 +5,7 @@ file: /courses/6-780-semiconductor-manufacturing-spring-2003/310e2dd096a82137361
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ln5advcontrol.pdf
 uid: 310e2dd0-96a8-2137-361d-4bbfb3bd1c59
 ---
 Advanced Control Charts, Nested Variance
-
