@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: 450e56ad-9640-db34-f8aa-b61ce3502b7d
 ---
@@ -63,10 +67,10 @@ _Analysis of Variation Sources in Ring Oscillator Layouts
 _Thomas Chandler and Shion Hung
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/hung_chan_rep)) Courtesy of Thomas Chandler and Shion Hung.
+({{% resource_link 1691f427-3130-27a9-2584-e5f673ac2155 "PDF" %}}) Courtesy of Thomas Chandler and Shion Hung.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/hung_chan_talk)) Courtesy of Thomas Chandler and Shion Hung.
+({{% resource_link 9817caa6-4325-58bc-003f-30f11e7db4cf "PDF" %}}) Courtesy of Thomas Chandler and Shion Hung.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -76,10 +80,10 @@ _Statistical Analysis of In-Situ End-Point Detection in Copper Chemical-Mechanic
 _Elizabeth Lyons and Kyung-yoon Noh
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lyons_noh_rep)) Courtesy of Elizabeth Lyons and Kyung-yoon Noh.
+({{% resource_link 01962e9a-0397-bce8-5da7-9472401e8c0e "PDF" %}}) Courtesy of Elizabeth Lyons and Kyung-yoon Noh.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lyons_noh_talk)) Courtesy of Elizabeth Lyons and Kyung-yoon Noh.
+({{% resource_link ee3c4a2b-24ad-1ca5-36b6-f04697b4fd7a "PDF" %}}) Courtesy of Elizabeth Lyons and Kyung-yoon Noh.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -89,7 +93,7 @@ _Epitaxial Silicon Deposition Data Analysis
 _Roland Sargeant and Erik Smith
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/smith_sarg_rep)) Courtesy of Roland Sargeant and Erik Smith.
+({{% resource_link 3ac459bb-4c73-5a3a-e426-81e116787f46 "PDF" %}}) Courtesy of Roland Sargeant and Erik Smith.
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -102,10 +106,10 @@ _Spatial Analysis of Ring Oscillator Devices
 _Ajay Somani and Lee Wee Teo
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/somani_teo_rep)) Courtesy of Ajay Somani and Lee Wee Teo.
+({{% resource_link 0a8bccd7-dc20-dca4-4c64-a4aedd01fbce "PDF" %}}) Courtesy of Ajay Somani and Lee Wee Teo.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/somani_teo_talk)) Courtesy of Ajay Somani and Lee Wee Teo.
+({{% resource_link 3c7a2fc7-71a0-a3eb-a7f9-1325c9e3a67c "PDF" %}}) Courtesy of Ajay Somani and Lee Wee Teo.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -115,10 +119,10 @@ _Determining Factors that Significantly Impact Injury Levels in a Production Fac
 Tee Welton
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/welton_rep)) Courtesy of Tee Welton.
+({{% resource_link ecedff45-da4a-9848-6f64-6c5e86dc8ffb "PDF" %}}) Courtesy of Tee Welton.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/welton_talk)) Courtesy of Tee Welton.
+({{% resource_link 5cc5843a-698a-8d4f-f6ba-73e9f2db2ce4 "PDF" %}}) Courtesy of Tee Welton.
 {{< tdclose >}}
 
 {{< trclose >}}
