@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-780-semiconductor-manufacturing-spring-2003/07db8b67e3acda2b972ffcbc8cd5dca5_crit_review.pdf
+file_size: 13917
 file_type: application/pdf
 learning_resource_types:
 - Assignments

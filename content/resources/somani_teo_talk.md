@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-780-semiconductor-manufacturing-spring-2003/3c7a2fc771a0a3eba7f91325c9e3a67c_somani_teo_talk.pdf
+file_size: 396659
 file_type: application/pdf
 learning_resource_types:
 - Projects

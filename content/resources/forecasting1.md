@@ -2,6 +2,7 @@
 content_type: resource
 description: 'RSM and Regression: Forecasting.'
 file: /courses/6-780-semiconductor-manufacturing-spring-2003/4eba4776bce664bdf54bdcad3e366b8d_forecasting1.pdf
+file_size: 315287
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
