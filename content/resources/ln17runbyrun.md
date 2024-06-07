@@ -2,6 +2,7 @@
 content_type: resource
 description: Run by Run Control
 file: /courses/6-780-semiconductor-manufacturing-spring-2003/7bcc4589bc666d149997c43444993331_ln17runbyrun.pdf
+file_size: 530435
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

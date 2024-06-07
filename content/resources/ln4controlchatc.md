@@ -2,6 +2,7 @@
 content_type: resource
 description: Hypothesis Tests and Control Chart Introduction
 file: /courses/6-780-semiconductor-manufacturing-spring-2003/9f855a2fddd3ffcd6a4d98b0c9b59021_ln4controlchatc.pdf
+file_size: 848876
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
