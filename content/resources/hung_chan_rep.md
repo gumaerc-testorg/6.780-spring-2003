@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-780-semiconductor-manufacturing-spring-2003/1691f427313027a92584e5f673ac2155_hung_chan_rep.pdf
+file_size: 285845
 file_type: application/pdf
 learning_resource_types:
 - Projects

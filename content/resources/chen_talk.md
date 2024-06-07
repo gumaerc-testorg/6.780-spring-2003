@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-780-semiconductor-manufacturing-spring-2003/3991f1efc66194c510a506d30e0f10ea_chen_talk.pdf
+file_size: 270036
 file_type: application/pdf
 learning_resource_types:
 - Projects
