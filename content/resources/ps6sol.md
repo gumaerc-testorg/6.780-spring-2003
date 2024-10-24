@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/6-780-semiconductor-manufacturing-spring-2003/18850083d59c9da48510d86e38c8e79c_ps6sol.pdf
+file: /ol-ocw-studio-app/courses/6-780-semiconductor-manufacturing-spring-2003/18850083d59c9da48510d86e38c8e79c_ps6sol.pdf
 file_size: 379900
 file_type: application/pdf
 learning_resource_types:

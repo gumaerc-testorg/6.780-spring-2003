@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/6-780-semiconductor-manufacturing-spring-2003/2c01cf2f6bfd32ffde3260afbe14fa99_smith_sarg_talk.pdf
+file: /ol-ocw-studio-app/courses/6-780-semiconductor-manufacturing-spring-2003/2c01cf2f6bfd32ffde3260afbe14fa99_smith_sarg_talk.pdf
 file_size: 414243
 file_type: application/pdf
 learning_resource_types:
