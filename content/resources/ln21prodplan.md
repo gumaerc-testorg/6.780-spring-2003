@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Planning
-file: /courses/6-780-semiconductor-manufacturing-spring-2003/1de12ab7367d4eee2e587996a6131ff2_ln21prodplan.pdf
+file: /ol-ocw-studio-app/courses/6-780-semiconductor-manufacturing-spring-2003/1de12ab7367d4eee2e587996a6131ff2_ln21prodplan.pdf
 file_size: 157436
 file_type: application/pdf
 learning_resource_types:
