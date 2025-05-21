@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Scheduling
-file: /ol-ocw-studio-app/courses/6-780-semiconductor-manufacturing-spring-2003/35e501b224c2446bd6491afd84d025d9_ln19schedule.pdf
+file: /courses/6-780-semiconductor-manufacturing-spring-2003/35e501b224c2446bd6491afd84d025d9_ln19schedule.pdf
 file_size: 192372
 file_type: application/pdf
 learning_resource_types:

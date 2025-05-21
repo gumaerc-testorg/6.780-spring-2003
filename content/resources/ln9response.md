@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Design of Experiments and Response Surface Modeling
-file: /ol-ocw-studio-app/courses/6-780-semiconductor-manufacturing-spring-2003/69cad79504e1b37b4df75f601ff748db_ln9response.pdf
+file: /courses/6-780-semiconductor-manufacturing-spring-2003/69cad79504e1b37b4df75f601ff748db_ln9response.pdf
 file_size: 418530
 file_type: application/pdf
 learning_resource_types:

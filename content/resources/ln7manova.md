@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: MANOVA, Factorial Experiments
-file: /ol-ocw-studio-app/courses/6-780-semiconductor-manufacturing-spring-2003/fdcb269ea2ee49d55df67820e81b3979_ln7manova.pdf
+file: /courses/6-780-semiconductor-manufacturing-spring-2003/fdcb269ea2ee49d55df67820e81b3979_ln7manova.pdf
 file_size: 424070
 file_type: application/pdf
 learning_resource_types:
