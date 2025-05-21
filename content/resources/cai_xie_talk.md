@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/6-780-semiconductor-manufacturing-spring-2003/cd2730f51a142ecf4f25eeadb3b2e27e_cai_xie_talk.pdf
+file: /courses/6-780-semiconductor-manufacturing-spring-2003/cd2730f51a142ecf4f25eeadb3b2e27e_cai_xie_talk.pdf
 file_size: 555078
 file_type: application/pdf
 learning_resource_types:
