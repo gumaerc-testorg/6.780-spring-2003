@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Statistics Review: Distributions'
-file: /ol-ocw-studio-app/courses/6-780-semiconductor-manufacturing-spring-2003/74d1cd3f7b1ac620d21700c2a7c43355_ln2estimation.pdf
+file: /courses/6-780-semiconductor-manufacturing-spring-2003/74d1cd3f7b1ac620d21700c2a7c43355_ln2estimation.pdf
 file_size: 223743
 file_type: application/pdf
 learning_resource_types:

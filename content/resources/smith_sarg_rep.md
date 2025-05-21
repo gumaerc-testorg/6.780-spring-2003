@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Epitaxial Silicon Deposition Data Analysis
-file: /ol-ocw-studio-app/courses/6-780-semiconductor-manufacturing-spring-2003/3ac459bb4c735a3ae42681e116787f46_smith_sarg_rep.pdf
+file: /courses/6-780-semiconductor-manufacturing-spring-2003/3ac459bb4c735a3ae42681e116787f46_smith_sarg_rep.pdf
 file_size: 499856
 file_type: application/pdf
 learning_resource_types:
