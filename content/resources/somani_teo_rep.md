@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/6-780-semiconductor-manufacturing-spring-2003/0a8bccd7dc20dca44c64a4aedd01fbce_somani_teo_rep.pdf
+file: /ol-ocw-studio-app/courses/6-780-semiconductor-manufacturing-spring-2003/0a8bccd7dc20dca44c64a4aedd01fbce_somani_teo_rep.pdf
 file_size: 898833
 file_type: application/pdf
 learning_resource_types:
