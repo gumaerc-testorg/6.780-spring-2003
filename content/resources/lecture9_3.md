@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Statistics Review: Estimation'
-file: /courses/6-780-semiconductor-manufacturing-spring-2003/5a0144749f4cd6523449bf32f3136945_lecture9_3.pdf
+file: /ol-ocw-studio-app/courses/6-780-semiconductor-manufacturing-spring-2003/5a0144749f4cd6523449bf32f3136945_lecture9_3.pdf
 file_size: 342591
 file_type: application/pdf
 learning_resource_types:
